@@ -11,18 +11,12 @@ Welcome to a One Day, Hands on workshop on Microsoft Fabric Real-Time Analytics.
 - Visualize data in KQL database Dashboards
 
 
- [**Lab 1: Database Creation, Data Ingestion and Exploration**](https://github.com/Azure/ADX-in-a-Day-Lab1)
+ [**Lab 1: Database Creation, Data Ingestion and Exploration**](https://github.com/Azure/Fabric-RTA-in-a-Day-Lab1)
 This Lab will focus on enabling the participants to Create a KQL database, and ingest data into the KQL database table - One click ingestion of historic data , update policy to perform ETL and write some KQL queries. 
 
- [**Lab 2: Advanced KQL, Policies, and Visualization**](https://github.com/Azure/ADX-in-a-Day-Lab2)
+ [**Lab 2: Advanced KQL, Policies, and Visualization**](https://github.com/Azure/Fabric-RTA-in-a-Day-Lab2)
 This Lab will focus on enabling the participants to write Kusto queries to explore and analyze the data stored in the KQL database. Participants will also create cool visualizations. It is recommended to complete the Lab 1 before beginning with Lab 2.
 
----
-Earn a digital badge! In order to receive the Microsoft Fabric Real-Time Analytics in a Day completion digital badge, you will need to complete the challenges marked with ✅ in each Lab. Please submit the results using the answer sheet found at the beginning of Lab. </br>
-
-<p align="center"><img src="/assets/images/badge.png" width="300"></p>
-
----
 
 ### What is KQL Database and when is it a good fit?
 
@@ -45,12 +39,12 @@ Constoso also maintains audit traces,  system logs and telemetry from Azure serv
 
 Contoso is planning to perform exploratory data analysis on the SQL DB logs. It is looking for a suitable analytics platform that provides out of the box integration with Azure services such as storage account for historical load and perform data analysis . Contoso is developing a SaaS application that will allow its customers to trace and monitor their system logs. Contoso wants to offer out of the box visualizations with interactive capabilities to enable its customers to drill-in/drill-out of the data and offer blazing fast loading of visualizations to its customers.
 
-This workshop walks through the steps in designing, creating, and configuring Azure Data Explorer clusters keeping in mind these requirements. Once the cluster is deployed, this workshop enlists the steps to ingest data into ADX databases and tables using One Click ingestion.
+This workshop walks through the steps in designing, creating, and configuring KQL database keeping in mind these requirements. Once the KQL database is created, this workshop enlists the steps to ingest data into KQL database and tables using One Click ingestion.
 
 ### Pre-requisites
 - Either a Microsoft account (MSA) or an Azure Active Directory (AAD) identity. This will be used to create free cluster.
 
-### How to start with ADX
+### How to start with KQL Database
 Generally, when starting with KQL Database in Fabric, you will follow the following steps (Fabric RTA Workshop Labs will cover all these steps):
 1. **Create database**: Create KQL Database in Fabric Real-Time Analytics. 
 2. **Ingest data**: Load data into database tables so that you can run queries against it. KQL Database supports several ingestion methods.
@@ -58,7 +52,7 @@ Generally, when starting with KQL Database in Fabric, you will follow the follow
 4. **Visualize results**: Use different visual displays of your data in the native KQL Database Dashboards. You can also display your results using connectors to some of the leading visualization services, such as Power BI and Grafana. 
 
 ### Ready to go? Click on the below links to start the challenges
-- [**Lab 1: Cluster Creation, Data Ingestion and Exploration**](https://github.com/Azure/ADX-in-a-Day-Lab1)
+- [**Lab 1: Database Creation, Data Ingestion and Exploration**](https://github.com/Azure/Fabric-RTA-in-a-Day-Lab1)
 
-- [**Lab 2: Advanced KQL, Policies, and Visualization**](https://github.com/Azure/ADX-in-a-Day-Lab2)
+- [**Lab 2: Advanced KQL, Policies, and Visualization**](https://github.com/Azure/Fabric-RTA-in-a-Day-Lab2)
 
