@@ -1,20 +1,20 @@
-# Microsoft Fabric Real-Time Analytics in a Day
+# Microsoft Fabric KQL Database in a Day
 
-Welcome to a One Day, Hands on workshop on Microsoft Fabric Real-Time Analytics. Microsoft Customer Success team is delighted to present this challenge based, discover by doing experience divided into 2 labs of 4 Hours each, a total of 8 hours.
+Welcome to a One Day, Hands on workshop on Microsoft Fabric KQL Database and KQL Queryset. Microsoft Customer Success team is delighted to present this challenge based, discover by doing experience divided into 2 labs of 4 Hours each, a total of 8 hours.
 
 
 ## After the workshop, you'll better understand how to
 - Create KQL database in your Fabric enabled Power BI workspace
-- Ingest data into KQL database
-- Run Powerful KQL queries to explore the data
-- Manage KQL database using control commands and policies
-- Visualize data in KQL database Dashboards
+- Ingest data into KQL Database
+- Run Powerful KQL queries to explore the data in KQL Queryset
+- Manage KQL Database using control commands and policies
+- Visualize data in KQL Database Dashboards
 
 
- [**Lab 1: Database Creation, Data Ingestion and Exploration**](https://github.com/Azure/Fabric-RTA-in-a-Day-Lab1)
+ [**Lab 1: Database Creation, Data Ingestion and Exploration**](https://github.com/Azure/Fabric-KQL-Database-in-a-Day-Lab1)
 This Lab will focus on enabling the participants to Create a KQL database, and ingest data into the KQL database table - One click ingestion of historic data , update policy to perform ETL and write some KQL queries. 
 
- [**Lab 2: Advanced KQL, Policies, and Visualization**](https://github.com/Azure/Fabric-RTA-in-a-Day-Lab2)
+ [**Lab 2: Advanced KQL, Policies, and Visualization**](https://github.com/Azure/Fabric-KQL-Database-in-a-Day-Lab2)
 This Lab will focus on enabling the participants to write Kusto queries to explore and analyze the data stored in the KQL database. Participants will also create cool visualizations. It is recommended to complete the Lab 1 before beginning with Lab 2.
 
 
@@ -24,7 +24,7 @@ Microsoft Fabric Real-Time Analytics is a fully managed, high-performance, big d
 
 By analyzing structured, semi-structured, and unstructured data across time series, and by using Machine Learning, Microsoft Fabric Real-Time Analytics makes it simple to extract key insights, spot patterns and trends, and create forecasting models. Microsoft Fabric Real-Time Analytics is scalable, secure, robust, and enterprise-ready, and is useful for log analytics, time series analytics, IoT, and general-purpose exploratory analytics.
 
-**Note**: KQL Databse exists as both a Standalone offering (Azure Data Explorer) and part of Microsoft Fabric (KQL Databse). The content will apply to KQL Databse offering in Microsoft Fabric. More about differences between Real-Time Analytics and Azure Data Explorer here: https://learn.microsoft.com/en-us/fabric/real-time-analytics/realtime-analytics-compare
+**Note**: KQL Databse exists as both a Standalone offering (Azure Data Explorer) and part of Microsoft Fabric (KQL Database). The content will apply to KQL Databse offering in Microsoft Fabric. More about differences between Real-Time Analytics and Azure Data Explorer here: https://learn.microsoft.com/en-us/fabric/real-time-analytics/realtime-analytics-compare
 
 KQL Databse capabilities are extended by other services built on its powerful query language, including [Azure Monitor logs](https://docs.microsoft.com/en-us/azure/log-analytics/), [Application Insights](https://docs.microsoft.com/en-us/azure/application-insights/), [Time Series Insights](https://docs.microsoft.com/en-us/azure/time-series-insights/), and [Microsoft Defender for Endpoint](https://docs.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint)
 
@@ -52,7 +52,7 @@ Generally, when starting with KQL Database in Fabric, you will follow the follow
 4. **Visualize results**: Use different visual displays of your data in the native KQL Database Dashboards. You can also display your results using connectors to some of the leading visualization services, such as Power BI and Grafana. 
 
 ### Ready to go? Click on the below links to start the challenges
-- [**Lab 1: Database Creation, Data Ingestion and Exploration**](https://github.com/Azure/Fabric-RTA-in-a-Day-Lab1)
+- [**Lab 1: Database Creation, Data Ingestion and Exploration**](https://github.com/Azure/Fabric-KQL-Database-in-a-Day-Lab1)
 
-- [**Lab 2: Advanced KQL, Policies, and Visualization**](https://github.com/Azure/Fabric-RTA-in-a-Day-Lab2)
+- [**Lab 2: Advanced KQL, Policies, and Visualization**](https://github.com/Azure/Fabric-KQL-Database-in-a-Day-Lab2)
 
