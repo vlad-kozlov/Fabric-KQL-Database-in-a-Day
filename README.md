@@ -16,7 +16,12 @@ This Lab will focus on enabling the participants to Create a KQL database, and i
 
  [**Lab 2: Advanced KQL, Policies, and Visualization**](https://github.com/Azure/Fabric-KQL-Database-in-a-Day-Lab2)
 This Lab will focus on enabling the participants to write Kusto queries to explore and analyze the data stored in the KQL database. Participants will also create cool visualizations. It is recommended to complete the Lab 1 before beginning with Lab 2.
+---
+Earn a digital badge! In order to receive the ADX-In-A-Day completion digital badge, you will need to complete the challenges marked with ✅ in each Lab. Please submit the results using the answer sheet found at the beginning of Lab. </br>
 
+<p align="center"><img src="/assets/images/badge.png" width="300"></p>
+
+---
 
 ### What is KQL Database and when is it a good fit?
 
